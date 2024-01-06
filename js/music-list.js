@@ -1,25 +1,25 @@
 let allMusic = [
     {
-        name: "Naan Ready than",
-        artist: "Anirudh",
+        name: "Shape of you",
+        artist: "Ed sheeran",
         img: "music-1",
         src: "music-1",
     },
     {
-        name: "Anbennum",
-        artist: "Anirudh",
+        name: "Baby",
+        artist: "justin bieber",
         img: "music-2",
         src: "music-2",
     },
     {
-        name: "Rolex Bgm",
+        name: "Closer",
         artist: "Sam meshach",
         img: "music-3",
         src: "music-3",
     },
     {
-        name: "Edhathan Kandutte",
-        artist: "Gana Bala",
+        name: "He is a pirates",
+        artist: "Stark Yeshuva",
         img: "music-4",
         src: "music-4",
     },
